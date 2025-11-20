@@ -1,4 +1,4 @@
 Objective: Stop the villain. 
-Status: FAILED
-Attempt: 1 
-Solution: Talk them out of it.
+Status: Success
+Attempt: 3
+Solution: Disable alarm system THEN sneak attack.
